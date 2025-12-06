@@ -164,7 +164,7 @@
   //Typed Animation
   function initTyped() {
     $("#typed").typed({
-      strings: ["馬年 馬年 馬年", "馬上有閒", "馬上有錢", "馬英九 My Angel", "馬羊猴雞狗豬", "馬賽克", "馬Cycle囉"],
+      strings: ["馬年 馬年 馬年", "馬上有閒", "馬上有錢", "馬英九 My Angel", "馬羊猴雞狗豬", "馬賽克", "馬Cycle"],
       // typing speed
       typeSpeed: 300,
       // time before typing starts
